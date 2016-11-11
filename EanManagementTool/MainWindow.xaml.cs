@@ -23,6 +23,8 @@ namespace EanManagementTool
         public MainWindow()
         {
             InitializeComponent();
+
+            
         }
     }
 }
